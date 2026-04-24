@@ -1,0 +1,127 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #f8f9fa;
+    color: #333;
+}
+
+h1 {
+    margin: 0;
+    padding: 40px 0;
+    font-size: 3rem;
+    color: #4d5bf9;
+}
+
+.background-image {
+    width: 100%;
+    height: 400px;
+    object-fit: cover;
+}
+
+.container {
+    padding: 50px 20px;
+}
+
+.profile-picture {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    margin-top: -80px;
+    border: 5px solid white;
+    object-fit: cover;
+}
+
+.container h2 {
+    font-size: 2rem;
+    margin-top: 20px;
+}
+
+.container p {
+    max-width: 700px;
+    margin: auto;
+    line-height: 1.6;
+}
+
+.identification {
+    padding: 60px 20px;
+    background-color: white;
+}
+
+.identification h2 {
+    font-size: 2rem;
+}
+
+.intro {
+    max-width: 600px;
+    margin: auto;
+    line-height: 1.6;
+}
+
+.My-skills {
+    padding: 60px 20px;
+}
+
+.My-skills h2 {
+    font-size: 2rem;
+    margin-bottom: 30px;
+}
+
+.first-skill,
+.second-skill {
+    width: 60%;
+    margin: 20px auto;
+    text-align: left;
+    background: white;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+}
+
+.contact-div {
+    padding: 60px 20px;
+    background-color: #f1f3f5;
+}
+
+.contact-div h2 {
+    font-size: 2rem;
+}
+
+.contact-div p {
+    max-width: 600px;
+    margin: auto;
+}
+
+.btn {
+    display: inline-block;
+    margin-top: 20px;
+    padding: 12px 25px;
+    background-color: #4d5bf9;
+    color: white;
+    text-decoration: none;
+    border-radius: 8px;
+}
+
+.social-media {
+    padding: 30px;
+}
+
+.social-media a {
+    margin: 0 10px;
+    text-decoration: none;
+    color: #4d5bf9;
+    font-weight: bold;
+}
+
+.footer {
+    background: #222;
+    color: white;
+    padding: 15px;
+    margin-top: 20px;
+}
+
+hr {
+    width: 60%;
+    margin: 40px auto;
+    border: 1px solid #ddd;
+}
